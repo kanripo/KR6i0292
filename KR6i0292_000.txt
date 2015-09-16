@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說入無分別法門經
+#+DATE: 2015-08-30 20:15:22.210059
+#+PROPERTY: JUAN 0
