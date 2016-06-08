@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:22.024353
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:14
 #+TITLE: 佛說入無分別法門經
 #+PROPERTY: CBETA_ID T15n0654
 #+PROPERTY: ID KR6i0292
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 654
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0292_T_000-0805b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0292_T_001-0805b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.654¶
-
- 《佛說入無分別法門經》¶
+No. 654¶
+《佛說入無分別法門經》¶
 ¶
 西天譯經三藏朝奉大夫試光祿卿¶
 傳法大師賜紫臣施護奉　詔譯¶
@@ -121,7 +120,7 @@ No.654¶
 
 「善男¶
 子，是義云何？若菩薩如所說能如實觀者，即¶
-入無分別界。及善男子！諸菩薩當於無分別¶
+入無分別界。又善男子！諸菩薩當於無分別¶
 界，如虛空界住。何以故？若色自性，若分別自¶
 性，如是觀時相不現前。若行我有色，是行分¶
 別相；若行他有色，是行分別相；若行色有生¶
@@ -169,7 +168,7 @@ No.654¶
 　是法寂靜無垢勝，
 　名稱功德而普集，¶
 　無分別法最上樂，
-　菩薩得已成菩提。」
+　菩薩得已成菩提。」」
 #+END_VERSE
-」¶
+¶
 《佛說入無分別法門經》
